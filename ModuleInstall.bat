@@ -1,6 +1,6 @@
-pip install wxPython
-pip install pyaudio
-pip install pygame
-pip install pillow
-pip install opencv-python
-pip install pycryptodome
+pip install wxPython -q
+pip install pyaudio -q
+pip install pygame -q
+pip install pillow -q
+pip install opencv-python -q
+pip install pycryptodome -q
